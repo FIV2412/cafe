@@ -1,0 +1,89 @@
+import requests
+from bs4 import BeautifulSoup
+
+url = 'https://owen.ru/catalog/kip'
+headers = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'Accept-Language': 'ru-RU,ru;q=0.9,en;q=0.8'
+}
+
+try:
+    response = requests.get(url, headers=headers, timeout=15)
+    response.raise_for_status()
+    response.encoding = 'utf-8'
+except requests.exceptions.RequestException as e:
+    print(f'Ошибка запроса: {e}')
+    exit()
+
+soup = BeautifulSoup(response.text, 'html.parser')
+
+# Находим все карточки товаров
+product_cards = soup.find_all('div', class_='product-card')
+
+# Словарь для группировки: раздел -> список товаров
+sections = {}
+
+for card in product_cards:
+    # Ищем ближайший предыдущий заголовок раздела
+    section_header = card.find_previous('div', class_='h2-panel__text')
+    section_name = section_header.get_text(strip=True) if section_header else 'Без раздела'
+
+    # Извлекаем наименование (из data-name или из strong внутри ссылки)
+    name = card.get('data-name', '').strip()
+    if not name:
+        strong = card.find('strong')
+        name = strong.get_text(strip=True) if strong else ''
+
+    # Извлекаем описание (текст после strong в ссылке product-card__label)
+    description = ''
+    label_link = card.find('a', class_='product-card__label')
+    if label_link:
+        full_text = label_link.get_text(' ', strip=True)
+        if name:
+            description = full_text.replace(name, '', 1).strip()
+        else:
+            description = full_text
+
+    # Извлекаем ссылку на изображение
+    image_url = ''
+    image_link = card.find('a', class_='product-card__image')
+    if image_link:
+        img = image_link.find('img')
+        if img and img.get('src'):
+            src = img['src']
+            # Преобразуем относительный путь в абсолютный
+            if src.startswith('//'):
+                image_url = 'https:' + src
+            elif src.startswith('/'):
+                image_url = 'https://owen.ru' + src
+            else:
+                image_url = src
+
+    # Добавляем в словарь
+    sections.setdefault(section_name, []).append({
+        'name': name,
+        'description': description,
+        'image_url': image_url
+    })
+
+# Вывод на экран и запись в файл
+output_lines = []
+for section, items in sections.items():
+    output_lines.append(f'=== Раздел: {section} ===')
+    print(f'=== Раздел: {section} ===')
+    for item in items:
+        line = f"Наименование: {item['name']}"
+        if item['description']:
+            line += f"\nОписание: {item['description']}"
+        if item['image_url']:
+            line += f"\nИзображение: {item['image_url']}"
+        output_lines.append(line)
+        print(line)
+        print()  # пустая строка для читаемости
+    output_lines.append('')  # разделитель между разделами
+
+# Запись в файл с кодировкой UTF-8
+with open('owen_catalog.txt', 'w', encoding='utf-8') as f:
+    f.write('\n'.join(output_lines))
+
+print('\nДанные сохранены в файл owen_catalog.txt')

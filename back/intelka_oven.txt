@@ -1,0 +1,650 @@
+Наименование: 0Сравнение
+Артикул: 0Корзина
+Изображение: 
+Ссылка: /catalog/compare/
+---
+Наименование: 
+Артикул: compare
+Изображение: 
+Ссылка: /catalog/compare/
+---
+Наименование: Редукторы и мотор-редукторы
+Артикул: reduktory-i-motor-reduktory
+Изображение: https://intelka-shop.ru/upload/uf/2fd/nz0pn29zhvdxgqj1g3gbufpc68htdqhd.svg
+Ссылка: /catalog/reduktory-i-motor-reduktory/
+---
+Наименование: Кабеленесущие системы
+Артикул: kabelenesushchie-sistemy
+Изображение: https://intelka-shop.ru/upload/uf/40d/awnpiwwifg50mw1lvq2me2afr6eithpf.svg
+Ссылка: /catalog/kabelenesushchie-sistemy/
+---
+Наименование: Кабель-каналы
+Артикул: kabel-kanaly
+Изображение: 
+Ссылка: /catalog/kabelenesushchie-sistemy/kabel-kanaly/
+---
+Наименование: Кабельные лотки
+Артикул: kabelnye-lotki
+Изображение: 
+Ссылка: /catalog/kabelenesushchie-sistemy/kabelnye-lotki/
+---
+Наименование: Метизы и крепежные изделия
+Артикул: metizy-i-krepezhnye-izdeliya
+Изображение: 
+Ссылка: /catalog/kabelenesushchie-sistemy/metizy-i-krepezhnye-izdeliya/
+---
+Наименование: Монтажные элементы (Профили, Консоли)
+Артикул: montazhnye-elementy-profili-konsoli
+Изображение: 
+Ссылка: /catalog/kabelenesushchie-sistemy/montazhnye-elementy-profili-konsoli/
+---
+Наименование: Трубы
+Артикул: truby
+Изображение: 
+Ссылка: /catalog/kabelenesushchie-sistemy/truby/
+---
+Наименование: Контроль качества и отслеживания
+Артикул: kontrol-kachestva-i-otslezhivaniya
+Изображение: https://intelka-shop.ru/upload/uf/a4d/v3fu0og03841uu2qpkl0svzyn3phkd7j.svg
+Ссылка: /catalog/kontrol-kachestva-i-otslezhivaniya/
+---
+Наименование: Omron
+Артикул: omron
+Изображение: 
+Ссылка: /catalog/kontrol-kachestva-i-otslezhivaniya/omron/
+---
+Наименование: Контрольно-измерительные приборы (КИП)
+Артикул: kontrolno-izmeritelnye-pribory-kip
+Изображение: https://intelka-shop.ru/upload/uf/2ab/0avcsu70k1cjpiym2hqfismoyb7y82ij.svg
+Ссылка: /catalog/kontrolno-izmeritelnye-pribory-kip/
+---
+Наименование: Аксессуары для КИП
+Артикул: aksessuary-dlya-kip
+Изображение: 
+Ссылка: /catalog/kontrolno-izmeritelnye-pribory-kip/aksessuary-dlya-kip/
+---
+Наименование: Датчики безопасности
+Артикул: datchiki-bezopasnosti
+Изображение: 
+Ссылка: /catalog/kontrolno-izmeritelnye-pribory-kip/datchiki-bezopasnosti/
+---
+Наименование: Датчики давления
+Артикул: datchiki-davleniya
+Изображение: 
+Ссылка: /catalog/kontrolno-izmeritelnye-pribory-kip/datchiki-davleniya/
+---
+Наименование: Датчики положения
+Артикул: datchiki-polozheniya
+Изображение: 
+Ссылка: /catalog/kontrolno-izmeritelnye-pribory-kip/datchiki-polozheniya/
+---
+Наименование: Датчики потока
+Артикул: datchiki-potoka
+Изображение: 
+Ссылка: /catalog/kontrolno-izmeritelnye-pribory-kip/datchiki-potoka/
+---
+Наименование: Датчики проводимости (концентрации)
+Артикул: datchiki-provodimosti-kontsentratsii
+Изображение: 
+Ссылка: /catalog/kontrolno-izmeritelnye-pribory-kip/datchiki-provodimosti-kontsentratsii/
+---
+Наименование: Датчики пыли
+Артикул: datchiki-pyli
+Изображение: 
+Ссылка: /catalog/kontrolno-izmeritelnye-pribory-kip/datchiki-pyli/
+---
+Наименование: Датчики температуры
+Артикул: datchiki-temperatury
+Изображение: 
+Ссылка: /catalog/kontrolno-izmeritelnye-pribory-kip/datchiki-temperatury/
+---
+Наименование: Датчики уровня
+Артикул: datchiki-urovnya
+Изображение: 
+Ссылка: /catalog/kontrolno-izmeritelnye-pribory-kip/datchiki-urovnya/
+---
+Наименование: Системы RFID
+Артикул: radiochastotnaya-identifikatsiya
+Изображение: 
+Ссылка: /catalog/kontrolno-izmeritelnye-pribory-kip/radiochastotnaya-identifikatsiya/
+---
+Наименование: Энкодеры
+Артикул: enkodery
+Изображение: 
+Ссылка: /catalog/kontrolno-izmeritelnye-pribory-kip/enkodery/
+---
+Наименование: Материалы для монтажа
+Артикул: materialy-dlya-montazha
+Изображение: https://intelka-shop.ru/upload/uf/999/ixq04cnhsa6ytim7bmrz74dvjyd6j73a.svg
+Ссылка: /catalog/materialy-dlya-montazha/
+---
+Наименование: Маркировка для кабеля и клемм
+Артикул: markirovka-dlya-kabelya-i-klemm
+Изображение: 
+Ссылка: /catalog/materialy-dlya-montazha/markirovka-dlya-kabelya-i-klemm/
+---
+Наименование: Маркировка оборудования
+Артикул: markirovka-oborudovaniya
+Изображение: 
+Ссылка: /catalog/materialy-dlya-montazha/markirovka-oborudovaniya/
+---
+Наименование: Маркировка устройств
+Артикул: markirovka-ustroystv
+Изображение: 
+Ссылка: /catalog/materialy-dlya-montazha/markirovka-ustroystv/
+---
+Наименование: Наконечники кабельные
+Артикул: nakonechniki-kabelnye
+Изображение: 
+Ссылка: /catalog/materialy-dlya-montazha/nakonechniki-kabelnye/
+---
+Наименование: Термоусаживаемые трубки
+Артикул: termousazhivaemye-trubki
+Изображение: 
+Ссылка: /catalog/materialy-dlya-montazha/termousazhivaemye-trubki/
+---
+Наименование: Хомуты
+Артикул: khomuty
+Изображение: 
+Ссылка: /catalog/materialy-dlya-montazha/khomuty/
+---
+Наименование: Молниезащита и заземление
+Артикул: molniezashchita-i-zazemlenie
+Изображение: https://intelka-shop.ru/upload/uf/d9b/my5et4dhzexte2wr32j2q2v9y5i9v8cz.svg
+Ссылка: /catalog/molniezashchita-i-zazemlenie/
+---
+Наименование: Аксессуары
+Артикул: aksessuary
+Изображение: 
+Ссылка: /catalog/molniezashchita-i-zazemlenie/aksessuary/
+---
+Наименование: Держатели
+Артикул: derzhateli
+Изображение: 
+Ссылка: /catalog/molniezashchita-i-zazemlenie/derzhateli/
+---
+Наименование: Заземление
+Артикул: zazemlenie-
+Изображение: 
+Ссылка: /catalog/molniezashchita-i-zazemlenie/zazemlenie-/
+---
+Наименование: Молниеприемники
+Артикул: molniepriemniki
+Изображение: 
+Ссылка: /catalog/molniezashchita-i-zazemlenie/molniepriemniki/
+---
+Наименование: Соединители
+Артикул: soediniteli
+Изображение: 
+Ссылка: /catalog/molniezashchita-i-zazemlenie/soediniteli/
+---
+Наименование: УЗИП
+Артикул: uzip
+Изображение: 
+Ссылка: /catalog/molniezashchita-i-zazemlenie/uzip/
+---
+Наименование: Низковольтное оборудование
+Артикул: nizkovoltnoe-oborudovanie
+Изображение: https://intelka-shop.ru/upload/uf/308/stoiv665y9l1vj2zw2xbs1hyp46060cb.svg
+Ссылка: /catalog/nizkovoltnoe-oborudovanie/
+---
+Наименование: Автоматические выключатели для защиты двигателя
+Артикул: avtomaty-zashchity-elektrodvigatelya
+Изображение: 
+Ссылка: /catalog/nizkovoltnoe-oborudovanie/avtomaty-zashchity-elektrodvigatelya/
+---
+Наименование: Блоки питания
+Артикул: bloki-pitaniya
+Изображение: 
+Ссылка: /catalog/nizkovoltnoe-oborudovanie/bloki-pitaniya/
+---
+Наименование: Выключатели автоматические модульные
+Артикул: vyklyuchateli-avtomaticheskie-modulnye
+Изображение: 
+Ссылка: /catalog/nizkovoltnoe-oborudovanie/vyklyuchateli-avtomaticheskie-modulnye/
+---
+Наименование: Выключатели автоматические силовые
+Артикул: vyklyuchateli-avtomaticheskie-silovye
+Изображение: 
+Ссылка: /catalog/nizkovoltnoe-oborudovanie/vyklyuchateli-avtomaticheskie-silovye/
+---
+Наименование: Дифференциальные автоматы
+Артикул: differentsialnye-avtomaty
+Изображение: 
+Ссылка: /catalog/nizkovoltnoe-oborudovanie/differentsialnye-avtomaty/
+---
+Наименование: Источники бесперебойного питания (ИБП)
+Артикул: istochniki-bespereboynogo-pitaniya-ibp
+Изображение: 
+Ссылка: /catalog/nizkovoltnoe-oborudovanie/istochniki-bespereboynogo-pitaniya-ibp/
+---
+Наименование: Клеммные соединители
+Артикул: klemmnye-soediniteli
+Изображение: 
+Ссылка: /catalog/nizkovoltnoe-oborudovanie/klemmnye-soediniteli/
+---
+Наименование: Кнопки, переключатели, разъемы, сигнальные лампы
+Артикул: knopki-pereklyuchateli-razemy-signalnye-lampy
+Изображение: 
+Ссылка: /catalog/nizkovoltnoe-oborudovanie/knopki-pereklyuchateli-razemy-signalnye-lampy/
+---
+Наименование: Коммуникационные модули
+Артикул: kommunikatsionnye-moduli
+Изображение: 
+Ссылка: /catalog/nizkovoltnoe-oborudovanie/kommunikatsionnye-moduli/
+---
+Наименование: Контакторы и акссесуары к ним
+Артикул: kontaktory-i-akssesuary-k-nim
+Изображение: 
+Ссылка: /catalog/nizkovoltnoe-oborudovanie/kontaktory-i-akssesuary-k-nim/
+---
+Наименование: Ограничители перенапряжений
+Артикул: ogranichiteli-perenapryazheniy
+Изображение: 
+Ссылка: /catalog/nizkovoltnoe-oborudovanie/ogranichiteli-perenapryazheniy/
+---
+Наименование: Панели оператора HMI
+Артикул: paneli-operatora-hmi
+Изображение: 
+Ссылка: /catalog/nizkovoltnoe-oborudovanie/paneli-operatora-hmi/
+---
+Наименование: Приборы контроля параметров сети
+Артикул: pribory-kontrolya-parametrov-seti
+Изображение: 
+Ссылка: /catalog/nizkovoltnoe-oborudovanie/pribory-kontrolya-parametrov-seti/
+---
+Наименование: Промышленные контроллеры PLC (ПЛК)
+Артикул: promyshlennye-kontrollery-plc
+Изображение: 
+Ссылка: /catalog/nizkovoltnoe-oborudovanie/promyshlennye-kontrollery-plc/
+---
+Наименование: Реле безопасности
+Артикул: rele-bezopasnosti
+Изображение: 
+Ссылка: /catalog/nizkovoltnoe-oborudovanie/rele-bezopasnosti/
+---
+Наименование: Реле времени
+Артикул: rele-vremeni
+Изображение: 
+Ссылка: /catalog/nizkovoltnoe-oborudovanie/rele-vremeni/
+---
+Наименование: Реле интеллектуальные
+Артикул: rele-intellektualnye
+Изображение: 
+Ссылка: /catalog/nizkovoltnoe-oborudovanie/rele-intellektualnye/
+---
+Наименование: Реле контроля
+Артикул: rele-kontrolya
+Изображение: 
+Ссылка: /catalog/nizkovoltnoe-oborudovanie/rele-kontrolya/
+---
+Наименование: Реле промежуточные
+Артикул: rele-promezhutochnye
+Изображение: 
+Ссылка: /catalog/nizkovoltnoe-oborudovanie/rele-promezhutochnye/
+---
+Наименование: Реле тепловые
+Артикул: rele-teplovye
+Изображение: 
+Ссылка: /catalog/nizkovoltnoe-oborudovanie/rele-teplovye/
+---
+Наименование: Рубильники.Разъединители.Предохранители
+Артикул: rubilniki-razediniteli
+Изображение: 
+Ссылка: /catalog/nizkovoltnoe-oborudovanie/rubilniki-razediniteli/
+---
+Наименование: Сервоприводы
+Артикул: servoprivody
+Изображение: 
+Ссылка: /catalog/nizkovoltnoe-oborudovanie/servoprivody/
+---
+Наименование: Твердотельные реле
+Артикул: tverdotelnye-rele
+Изображение: 
+Ссылка: /catalog/nizkovoltnoe-oborudovanie/tverdotelnye-rele/
+---
+Наименование: Терморегуляторы
+Артикул: termoregulyatory
+Изображение: 
+Ссылка: /catalog/nizkovoltnoe-oborudovanie/termoregulyatory/
+---
+Наименование: Установки компенсации реактивной мощности (УКРМ)
+Артикул: ustanovki-kompensatsii-reaktivnoy-moshchnosti-ukrm
+Изображение: 
+Ссылка: /catalog/nizkovoltnoe-oborudovanie/ustanovki-kompensatsii-reaktivnoy-moshchnosti-ukrm/
+---
+Наименование: Устройства плавного пуска
+Артикул: ustroystva-plavnogo-puska
+Изображение: 
+Ссылка: /catalog/nizkovoltnoe-oborudovanie/ustroystva-plavnogo-puska/
+---
+Наименование: Частотные преобразователи
+Артикул: preobrazovateli-chastoty
+Изображение: 
+Ссылка: /catalog/nizkovoltnoe-oborudovanie/preobrazovateli-chastoty/
+---
+Наименование: Шинопроводы
+Артикул: shinoprovody
+Изображение: 
+Ссылка: /catalog/nizkovoltnoe-oborudovanie/shinoprovody/
+---
+Наименование: Программное обеспечение
+Артикул: programmnoe-obespechenie
+Изображение: https://intelka-shop.ru/upload/uf/82f/5kflzwg8iieuqugm5ogles69urr0lt2t.svg
+Ссылка: /catalog/programmnoe-obespechenie/
+---
+Наименование: Omron
+Артикул: omron_47
+Изображение: 
+Ссылка: /catalog/programmnoe-obespechenie/omron_47/
+---
+Наименование: Schneider Electric
+Артикул: schneider-electric_64
+Изображение: 
+Ссылка: /catalog/programmnoe-obespechenie/schneider-electric_64/
+---
+Наименование: Siemens
+Артикул: siemens_2
+Изображение: 
+Ссылка: /catalog/programmnoe-obespechenie/siemens_2/
+---
+Наименование: Промышленные ПК
+Артикул: promyshlennye-pk
+Изображение: https://intelka-shop.ru/upload/uf/59f/ijh956kcjk101e1rez98p4nomh4jhywo.svg
+Ссылка: /catalog/promyshlennye-pk/
+---
+Наименование: Промышленные мониторы
+Артикул: promyshlennye-monitory
+Изображение: 
+Ссылка: /catalog/promyshlennye-pk/promyshlennye-monitory/
+---
+Наименование: Промышленные ПК
+Артикул: promyshlennye-pk_1
+Изображение: 
+Ссылка: /catalog/promyshlennye-pk/promyshlennye-pk_1/
+---
+Наименование: Роботы
+Артикул: roboty
+Изображение: https://intelka-shop.ru/upload/uf/335/5rykvl9rp3r8eyrkmvmmjk01d9cmwqdt.svg
+Ссылка: /catalog/roboty/
+---
+Наименование: Omron
+Артикул: omron_50
+Изображение: 
+Ссылка: /catalog/roboty/omron_50/
+---
+Наименование: Светотехника
+Артикул: svetotekhnika
+Изображение: https://intelka-shop.ru/upload/uf/ba4/2oibmrog92vfxjf12kr4b3t8k45igp71.svg
+Ссылка: /catalog/svetotekhnika/
+---
+Наименование: Лампы светодиодные
+Артикул: lampy-svetodiodnye
+Изображение: 
+Ссылка: /catalog/svetotekhnika/lampy-svetodiodnye/
+---
+Наименование: Ленты светодиодные
+Артикул: lenty-svetodiodnye
+Изображение: 
+Ссылка: /catalog/svetotekhnika/lenty-svetodiodnye/
+---
+Наименование: Светильники, панели, прожекторы
+Артикул: svetilniki-paneli-prozhektory
+Изображение: 
+Ссылка: /catalog/svetotekhnika/svetilniki-paneli-prozhektory/
+---
+Наименование: Управление освещением и комплектующие
+Артикул: upravlenie-osveshcheniem-i-komplektuyushchie
+Изображение: 
+Ссылка: /catalog/svetotekhnika/upravlenie-osveshcheniem-i-komplektuyushchie/
+---
+Наименование: Техническое зрение
+Артикул: tekhnicheskoe-zrenie
+Изображение: https://intelka-shop.ru/upload/uf/b67/det7t1a0jzogwh141aioe6azm4d2on4t.svg
+Ссылка: /catalog/tekhnicheskoe-zrenie/
+---
+Наименование: Аксессуары
+Артикул: aksessuary_6
+Изображение: 
+Ссылка: /catalog/tekhnicheskoe-zrenie/aksessuary_6/
+---
+Наименование: Камеры технического зрения
+Артикул: kamery-tekhnicheskogo-zreniya
+Изображение: 
+Ссылка: /catalog/tekhnicheskoe-zrenie/kamery-tekhnicheskogo-zreniya/
+---
+Наименование: Контроллеры технического зрения
+Артикул: kontrollery-tekhnicheskogo-zreniya
+Изображение: 
+Ссылка: /catalog/tekhnicheskoe-zrenie/kontrollery-tekhnicheskogo-zreniya/
+---
+Наименование: Сканеры штрих-кодов
+Артикул: skanery-shtrikh-kodov
+Изображение: 
+Ссылка: /catalog/tekhnicheskoe-zrenie/skanery-shtrikh-kodov/
+---
+Наименование: Шкафы и щиты
+Артикул: shkafy-i-shchity
+Изображение: https://intelka-shop.ru/upload/uf/d69/03grpr01dug4z4wfvru5bqimqhf708yk.svg
+Ссылка: /catalog/shkafy-i-shchity/
+---
+Наименование: Акссесуары для шкафов
+Артикул: akssesuary-dlya-shkafov
+Изображение: 
+Ссылка: /catalog/shkafy-i-shchity/akssesuary-dlya-shkafov/
+---
+Наименование: Система контроля микроклимата для шкафов
+Артикул: sistema-kontrolya-mikroklimata-dlya-shkafov
+Изображение: 
+Ссылка: /catalog/shkafy-i-shchity/sistema-kontrolya-mikroklimata-dlya-shkafov/
+---
+Наименование: Шкафы навесные
+Артикул: shkafy-navesnye
+Изображение: 
+Ссылка: /catalog/shkafy-i-shchity/shkafy-navesnye/
+---
+Наименование: Шкафы напольные
+Артикул: shkafy-napolnye
+Изображение: 
+Ссылка: /catalog/shkafy-i-shchity/shkafy-napolnye/
+---
+Наименование: Электродвигатели и приводы
+Артикул: elektrodvigateli-i-privody
+Изображение: https://intelka-shop.ru/upload/uf/e47/hngmz1xvk6wmy081xxiyi2m1zy1hf1k7.svg
+Ссылка: /catalog/elektrodvigateli-i-privody/
+---
+Наименование: ONI
+Артикул: oni_19
+Изображение: 
+Ссылка: /catalog/elektrodvigateli-i-privody/oni_19/
+---
+Наименование: Промситех
+Артикул: promsitekh_2
+Изображение: 
+Ссылка: /catalog/elektrodvigateli-i-privody/promsitekh_2/
+---
+Наименование: 
+Артикул: signalnaya-led-lampa-zheltyy-220v-ac-ip65-mt22-sa65
+Изображение: #
+Ссылка: /catalog/oven_13/signalnaya-led-lampa-zheltyy-220v-ac-ip65-mt22-sa65/
+---
+Наименование: MT22-SA65 - Сигнальная LED лампа, желтый, 220 V AC IP65
+Артикул: signalnaya-led-lampa-zheltyy-220v-ac-ip65-mt22-sa65
+Изображение: 
+Ссылка: /catalog/oven_13/signalnaya-led-lampa-zheltyy-220v-ac-ip65-mt22-sa65/
+---
+Наименование: 
+Артикул: signalnaya-led-lampa-krasnyy-220v-ac-ip65-mt22-sa64
+Изображение: #
+Ссылка: /catalog/oven_13/signalnaya-led-lampa-krasnyy-220v-ac-ip65-mt22-sa64/
+---
+Наименование: MT22-SA64 - Сигнальная LED лампа, красный, 220 V AC IP65
+Артикул: signalnaya-led-lampa-krasnyy-220v-ac-ip65-mt22-sa64
+Изображение: 
+Ссылка: /catalog/oven_13/signalnaya-led-lampa-krasnyy-220v-ac-ip65-mt22-sa64/
+---
+Наименование: 
+Артикул: signalnaya-led-lampa-zelenyy-220v-ac-ip65-mt22-sa63
+Изображение: #
+Ссылка: /catalog/oven_13/signalnaya-led-lampa-zelenyy-220v-ac-ip65-mt22-sa63/
+---
+Наименование: MT22-SA63 - Сигнальная LED лампа, зеленый, 220 V AC IP65
+Артикул: signalnaya-led-lampa-zelenyy-220v-ac-ip65-mt22-sa63
+Изображение: 
+Ссылка: /catalog/oven_13/signalnaya-led-lampa-zelenyy-220v-ac-ip65-mt22-sa63/
+---
+Наименование: 
+Артикул: signalnaya-led-lampa-krasnyy-220v-ac-dc-ip65-mt22-sa34
+Изображение: #
+Ссылка: /catalog/oven_13/signalnaya-led-lampa-krasnyy-220v-ac-dc-ip65-mt22-sa34/
+---
+Наименование: MT22-SA34 - Сигнальная LED лампа, красный, 220 V AC/DC IP65
+Артикул: signalnaya-led-lampa-krasnyy-220v-ac-dc-ip65-mt22-sa34
+Изображение: 
+Ссылка: /catalog/oven_13/signalnaya-led-lampa-krasnyy-220v-ac-dc-ip65-mt22-sa34/
+---
+Наименование: 
+Артикул: signalnaya-led-lampa-zelenyy-220v-ac-dc-ip65-mt22-sa33
+Изображение: #
+Ссылка: /catalog/oven_13/signalnaya-led-lampa-zelenyy-220v-ac-dc-ip65-mt22-sa33/
+---
+Наименование: MT22-SA33 - Сигнальная LED лампа, зеленый, 220 V AC/DC IP65
+Артикул: signalnaya-led-lampa-zelenyy-220v-ac-dc-ip65-mt22-sa33
+Изображение: 
+Ссылка: /catalog/oven_13/signalnaya-led-lampa-zelenyy-220v-ac-dc-ip65-mt22-sa33/
+---
+Наименование: 
+Артикул: signalnaya-led-lampa-belyy-220v-ac-dc-ip65-mt22-sa31
+Изображение: #
+Ссылка: /catalog/oven_13/signalnaya-led-lampa-belyy-220v-ac-dc-ip65-mt22-sa31/
+---
+Наименование: MT22-SA31 - Сигнальная LED лампа, белый, 220 V AC/DC IP65
+Артикул: signalnaya-led-lampa-belyy-220v-ac-dc-ip65-mt22-sa31
+Изображение: 
+Ссылка: /catalog/oven_13/signalnaya-led-lampa-belyy-220v-ac-dc-ip65-mt22-sa31/
+---
+Наименование: 
+Артикул: pereklyuchatel-na-2-polozheniya-s-fiksatsiey-korotkaya-ruchka-1no-ip67-metall-mtb2-bdf21
+Изображение: #
+Ссылка: /catalog/oven_13/pereklyuchatel-na-2-polozheniya-s-fiksatsiey-korotkaya-ruchka-1no-ip67-metall-mtb2-bdf21/
+---
+Наименование: MTB2-BDF21 - Переключатель на 2 положения с фиксацией, короткая ручка, 1NO, IP67, металл
+Артикул: pereklyuchatel-na-2-polozheniya-s-fiksatsiey-korotkaya-ruchka-1no-ip67-metall-mtb2-bdf21
+Изображение: 
+Ссылка: /catalog/oven_13/pereklyuchatel-na-2-polozheniya-s-fiksatsiey-korotkaya-ruchka-1no-ip67-metall-mtb2-bdf21/
+---
+Наименование: 
+Артикул: zaglushka-dlya-otverstiy-22-mm-2-sht-v-komplekte-mtb2-f09
+Изображение: #
+Ссылка: /catalog/oven_13/zaglushka-dlya-otverstiy-22-mm-2-sht-v-komplekte-mtb2-f09/
+---
+Наименование: MTB2-F09 - Заглушка для отверстий 22 мм (2 шт. в комплекте)
+Артикул: zaglushka-dlya-otverstiy-22-mm-2-sht-v-komplekte-mtb2-f09
+Изображение: 
+Ссылка: /catalog/oven_13/zaglushka-dlya-otverstiy-22-mm-2-sht-v-komplekte-mtb2-f09/
+---
+Наименование: 
+Артикул: pereklyuchatel-s-klyuchom-na-2-polozheniya-s-fiksatsiey-1-vyemka-1no-ip65-plastik-mtb5-ag21
+Изображение: #
+Ссылка: /catalog/oven_13/pereklyuchatel-s-klyuchom-na-2-polozheniya-s-fiksatsiey-1-vyemka-1no-ip65-plastik-mtb5-ag21/
+---
+Наименование: MTB5-AG21 - Переключатель с ключом на 2 положения с фиксацией, 1 выемка, 1NO, IP65, пластик
+Артикул: pereklyuchatel-s-klyuchom-na-2-polozheniya-s-fiksatsiey-1-vyemka-1no-ip65-plastik-mtb5-ag21
+Изображение: 
+Ссылка: /catalog/oven_13/pereklyuchatel-s-klyuchom-na-2-polozheniya-s-fiksatsiey-1-vyemka-1no-ip65-plastik-mtb5-ag21/
+---
+Наименование: 
+Артикул: lampa-signalnaya-zelenaya-220v-as-dc-ip65-plastik-mtb5-av733
+Изображение: #
+Ссылка: /catalog/oven_13/lampa-signalnaya-zelenaya-220v-as-dc-ip65-plastik-mtb5-av733/
+---
+Наименование: MTB5-AV733 - Лампа сигнальная зеленая, 220V AС/DC, IP65, пластик
+Артикул: lampa-signalnaya-zelenaya-220v-as-dc-ip65-plastik-mtb5-av733
+Изображение: 
+Ссылка: /catalog/oven_13/lampa-signalnaya-zelenaya-220v-as-dc-ip65-plastik-mtb5-av733/
+---
+Наименование: 
+Артикул: knopka-gribovidnaya-avariynoy-ostanovki-krasnaya-40-mm-vozvrat-povorotom-s-fiksatsiey-1nc-ip65-pl
+Изображение: #
+Ссылка: /catalog/oven_13/knopka-gribovidnaya-avariynoy-ostanovki-krasnaya-40-mm-vozvrat-povorotom-s-fiksatsiey-1nc-ip65-pl/
+---
+Наименование: MTB5-AS542 - Кнопка грибовидная аварийной остановки, красная, 40 мм, возврат поворотом с фиксацией
+Артикул: knopka-gribovidnaya-avariynoy-ostanovki-krasnaya-40-mm-vozvrat-povorotom-s-fiksatsiey-1nc-ip65-pl
+Изображение: 
+Ссылка: /catalog/oven_13/knopka-gribovidnaya-avariynoy-ostanovki-krasnaya-40-mm-vozvrat-povorotom-s-fiksatsiey-1nc-ip65-pl/
+---
+Наименование: 
+Артикул: knopka-zelenaya-s-podsvetkoy-1no-24v-ac-dc-ip65-metall-mtb4-bw33711
+Изображение: #
+Ссылка: /catalog/oven_13/knopka-zelenaya-s-podsvetkoy-1no-24v-ac-dc-ip65-metall-mtb4-bw33711/
+---
+Наименование: MTB4-BW33711 - Кнопка зеленая с подсветкой, 1NO, 24 V AC/DC, IP65, металл
+Артикул: knopka-zelenaya-s-podsvetkoy-1no-24v-ac-dc-ip65-metall-mtb4-bw33711
+Изображение: 
+Ссылка: /catalog/oven_13/knopka-zelenaya-s-podsvetkoy-1no-24v-ac-dc-ip65-metall-mtb4-bw33711/
+---
+Наименование: 
+Артикул: pereklyuchatel-na-2-polozheniya-s-fiksatsiey-korotkaya-ruchka-1no-ip65-metall-mtb4-bd21
+Изображение: #
+Ссылка: /catalog/oven_13/pereklyuchatel-na-2-polozheniya-s-fiksatsiey-korotkaya-ruchka-1no-ip65-metall-mtb4-bd21/
+---
+Наименование: MTB4-BD21 - Переключатель на 2 положения с фиксацией, короткая ручка, 1NO, IP65, металл
+Артикул: pereklyuchatel-na-2-polozheniya-s-fiksatsiey-korotkaya-ruchka-1no-ip65-metall-mtb4-bd21
+Изображение: 
+Ссылка: /catalog/oven_13/pereklyuchatel-na-2-polozheniya-s-fiksatsiey-korotkaya-ruchka-1no-ip65-metall-mtb4-bd21/
+---
+Наименование: 
+Артикул: pereklyuchatel-na-2-polozheniya-s-fiksatsiey-korotkaya-ruchka-1no-ip65-plastik-mtb5-ad21
+Изображение: #
+Ссылка: /catalog/oven_13/pereklyuchatel-na-2-polozheniya-s-fiksatsiey-korotkaya-ruchka-1no-ip65-plastik-mtb5-ad21/
+---
+Наименование: MTB5-AD21 - Переключатель на 2 положения с фиксацией, короткая ручка, 1NO, IP65, пластик
+Артикул: pereklyuchatel-na-2-polozheniya-s-fiksatsiey-korotkaya-ruchka-1no-ip65-plastik-mtb5-ad21
+Изображение: 
+Ссылка: /catalog/oven_13/pereklyuchatel-na-2-polozheniya-s-fiksatsiey-korotkaya-ruchka-1no-ip65-plastik-mtb5-ad21/
+---
+Наименование: 
+Артикул: knopka-ploskaya-krasnaya-1ns-ip65-plastik-mtb5-aa42
+Изображение: #
+Ссылка: /catalog/oven_13/knopka-ploskaya-krasnaya-1ns-ip65-plastik-mtb5-aa42/
+---
+Наименование: MTB5-AA42 - Кнопка плоская красная, 1NС, IP65, пластик
+Артикул: knopka-ploskaya-krasnaya-1ns-ip65-plastik-mtb5-aa42
+Изображение: 
+Ссылка: /catalog/oven_13/knopka-ploskaya-krasnaya-1ns-ip65-plastik-mtb5-aa42/
+---
+Наименование: 
+Артикул: knopka-ploskaya-chernaya-1no-ip65-plastik-mtb5-aa21
+Изображение: #
+Ссылка: /catalog/oven_13/knopka-ploskaya-chernaya-1no-ip65-plastik-mtb5-aa21/
+---
+Наименование: MTB5-AA21 - Кнопка плоская черная, 1NO, IP65, пластик
+Артикул: knopka-ploskaya-chernaya-1no-ip65-plastik-mtb5-aa21
+Изображение: 
+Ссылка: /catalog/oven_13/knopka-ploskaya-chernaya-1no-ip65-plastik-mtb5-aa21/
+---
+Наименование: 
+Артикул: knopka-belaya-s-podsvetkoy-1no-24v-ac-dc-ip65-metall-mtb4-bw31711
+Изображение: #
+Ссылка: /catalog/oven_13/knopka-belaya-s-podsvetkoy-1no-24v-ac-dc-ip65-metall-mtb4-bw31711/
+---
+Наименование: MTB4-BW31711 - Кнопка белая с подсветкой, 1NO, 24 V AC/DC, IP65, металл
+Артикул: knopka-belaya-s-podsvetkoy-1no-24v-ac-dc-ip65-metall-mtb4-bw31711
+Изображение: 
+Ссылка: /catalog/oven_13/knopka-belaya-s-podsvetkoy-1no-24v-ac-dc-ip65-metall-mtb4-bw31711/
+---
+Наименование: 
+Артикул: pereklyuchatel-na-3-polozheniya-s-fiksatsiey-korotkaya-ruchka-2no-ip65-metall-mtb4-bd33
+Изображение: #
+Ссылка: /catalog/oven_13/pereklyuchatel-na-3-polozheniya-s-fiksatsiey-korotkaya-ruchka-2no-ip65-metall-mtb4-bd33/
+---
+Наименование: MTB4-BD33 - Переключатель на 3 положения с фиксацией, короткая ручка, 2NO, IP65, металл
+Артикул: pereklyuchatel-na-3-polozheniya-s-fiksatsiey-korotkaya-ruchka-2no-ip65-metall-mtb4-bd33
+Изображение: 
+Ссылка: /catalog/oven_13/pereklyuchatel-na-3-polozheniya-s-fiksatsiey-korotkaya-ruchka-2no-ip65-metall-mtb4-bd33/
+---
+Наименование: Каталог
+Артикул: catalog
+Изображение: 
+Ссылка: /catalog/
+---
