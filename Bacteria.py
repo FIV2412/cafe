@@ -7,17 +7,25 @@ class BacteriaProducer:
         self.max_bacteria = max_bacteria
         self.current_bacteria_count = 0
 
- def create(self):
-        if self.current_bacteria_count = self.max_bacteria:
-            print('Нет места под новую бактерию')
+    def create(self):
+        if self.current_bacteria_count == self.max_bacteria:
+                print('Нет места под новую бактерию')
         else:
             self.current_bacteria_count += 1
+            print(f'Добавлена одна бактерия. Бактерий в колонии:'
+                    f' {self.current_bacteria_count}')
 
-
+    def delete(self):
+        if self.current_bacteria_count = 0:
+            print('В популяции нет бактерий, удалять нечего')
+        else:
+            ...
 
 
 
 
 lab = BacteriaProducer(3)
-print(lab.max_bacteria)             # 3
-print(lab.current_bacteria_count)   # 0        
+lab.create()   # Добавлена одна бактерия. Бактерий в колонии: 1
+lab.create()   # Добавлена одна бактерия. Бактерий в колонии: 2
+lab.create()   # Добавлена одна бактерия. Бактерий в колонии: 3
+lab.create()   # Нет места под новую бактерию     
