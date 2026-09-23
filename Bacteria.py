@@ -19,7 +19,9 @@ class BacteriaProducer:
         if self.current_bacteria_count = 0:
             print('В популяции нет бактерий, удалять нечего')
         else:
-            ...
+            self.current_bacteria_count -= 1
+            print(f'Одна бактерия удалена. Бактерий в колонии:'
+                  f)
 
 
 
